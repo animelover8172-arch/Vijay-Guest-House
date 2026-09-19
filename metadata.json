@@ -1,0 +1,6 @@
+{
+  "name": "Vijay Guest House",
+  "description": "Premium and comfortable guest house in Bhabua, Bihar, conveniently located near the bus stand on Bus Stand Road, Akhalaspur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
